@@ -45,6 +45,9 @@ public class Examnn3{
 			 	zonaB=kilovatios+60;
 			 	zonaC=kilovatios+40;
 			 	if (categotia =1){
-
+			 		
+	 	zonaA=kilovatios+100;
+			 	zonaB=kilovatios+60;
+			 	zonaC=kilovatios+40;
 			 	}
 
